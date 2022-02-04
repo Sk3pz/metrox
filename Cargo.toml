@@ -1,0 +1,12 @@
+[package]
+name = "metrox"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sk3pz"]
+
+
+[dependencies]
+rand = "*"
+rand_distr = "*"
+crossterm = "*"
+better_term = "*"
